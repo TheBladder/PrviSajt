@@ -1,5 +1,7 @@
 <html>
-<head>Pedja</head>
+<head>Pedja
+  <title>JA SAM CAAAR</title>
+  </head>
 <body>
 <marquee>Pedja Car</marquee>
 </body>
