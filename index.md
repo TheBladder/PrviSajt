@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>Pedja I Joca
   <title>JOCA JE CAAAR</title>
