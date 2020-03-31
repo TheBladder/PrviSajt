@@ -8,6 +8,6 @@
     <li><a href="prvi-zadatak.html">Prvi Zadatak</a></li>
     <li>Drugi Zadatak</li>
     <li>Treci Zadatak</li>
-</ul>>
+</ul>
 </body>
 </html>
