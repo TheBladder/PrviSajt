@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>JOCA JE CAAAR</title>
@@ -12,7 +12,7 @@
 <marquee>Joca Car</marquee>
 <ul>
     <li> <a href="prvi-zadatak.html">Prvi Zadatak</a></li>
-    <li>Drugi Zadatak</li>
+  <li><a href="drugi-zadatak.html>Drugi Zadatak</a></li>
     <li>Treći Zadatak</li>
 </ul>
 </body>
