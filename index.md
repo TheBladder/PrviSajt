@@ -5,7 +5,7 @@
 <body>
 <marquee>Joca Car</marquee>
 <ul>
-    <li>Prvi Zadatak</li>
+    <li><a href="prvi-zadatak.html">Prvi Zadatak</a></li>
     <li>Drugi Zadatak</li>
     <li>Treci Zadatak</li>
 </ul>>
