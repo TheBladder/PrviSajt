@@ -13,7 +13,7 @@
 <ul>
     <li> <a href="prvi-zadatak.html">Prvi Zadatak</a></li>
   <li><a href="drugi-zadatak.html">Drugi Zadatak</a></li>
-    <li>Treći Zadatak</li>
+    <li><a href="treci-zadatak.html">Treći Zadatak</a></li>
 </ul>
 </body>
 </html>
