@@ -33,9 +33,8 @@
     <h1>PEĐA I JOCA</h1>
     <div id="jocko"><marquee>JOCA CAR</marquee></div>
 <ul>
-    <li> <a href="prvi-zadatak.html">Prvi Zadatak</a></li>
-  <li><a href="drugi-zadatak.html">Drugi Zadatak</a></li>
-    <li><a href="treci-zadatak.html">Treći Zadatak</a></li>
+     <li><a href="zadaci.html">ZADACI</a></li>
+    <li><a href="vezbanje.html">VEŽBANJE</a></li>
 </ul>
 </body>
 </html>
