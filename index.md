@@ -20,6 +20,7 @@
         body{
             background-image: url("zmaj.jpg");
             background-size: 100%;
+            background-repeat: no-repeat;
         }
     
     
