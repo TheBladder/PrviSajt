@@ -19,7 +19,7 @@
         }
         body{
             background-image: url("zmaj.jpg");
-            background-size: 99%;
+            background-size: 100%;
         }
     
     
