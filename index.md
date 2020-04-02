@@ -22,13 +22,9 @@
             background-size: 100%;
             background-repeat: no-repeat;
         }
-    
-    
-    
     </style>
-    
-    
   </head>
+  
 <body>
     <h1>PEĐA I JOCA</h1>
     <div id="jocko"><marquee>JOCA CAR</marquee></div>
