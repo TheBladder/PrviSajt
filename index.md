@@ -40,7 +40,14 @@
         a:visited{
             color:black;
         }
-        
+         @media screen and (max-width: 768px){
+            body,p{
+                font-size: 0.6em;
+            }
+            body{
+                background-size: cover;
+            }
+        }
     
     </style>
     
