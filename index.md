@@ -25,6 +25,7 @@
             background-image: url("zmaj.jpg");
             background-size: 100%;
             background-repeat: no-repeat;
+      font-size: 1em;
       
         }
         #navi{
