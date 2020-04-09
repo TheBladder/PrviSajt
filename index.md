@@ -48,6 +48,10 @@
             body{
                 background-image: url("zmaj%20768.jpg");
             }
+            #navi{
+                background-color: rgba(0,0,0,0);
+            }
+        
         
         }
          @media screen and (max-width: 414px){
