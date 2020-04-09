@@ -20,7 +20,7 @@
             margin-top: 0;
             letter-spacing: 5px;
             margin-bottom: 0;
-        }
+        } 
         body{
             background-image: url("zmaj.jpg");
             background-size: 100%;
