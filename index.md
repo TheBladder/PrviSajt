@@ -55,7 +55,7 @@
                 font-size: 0.6em;
             }
             body{
-                background-image: url(zmaj414.jpg);
+                background-image: url(zmajmob.jpg);
             }
         
         }
