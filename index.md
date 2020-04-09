@@ -41,14 +41,25 @@
         a:visited{
             color:black;
         }
-         @media screen and (max-width: 768px){
+           @media screen and (max-width: 768px){
             body,p{
                 font-size: 0.6em;
             }
             body{
-                background-size: cover;
+                background-image: url("zmaj%20768.jpg");
             }
+        
         }
+         @media screen and (max-width: 414px){
+            body,p{
+                font-size: 0.6em;
+            }
+            body{
+                background-image: url(zmaj414.jpg);
+            }
+        
+        }
+    
     
     </style>
     
