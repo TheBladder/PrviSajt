@@ -25,9 +25,7 @@
             background-image: url("zmaj.jpg");
             background-size: 100%;
             background-repeat: no-repeat;
-      @media screen and (max-width:424px){
-                background-size: contain;
-            }
+      
         }
         #navi{
             width: 10%;
