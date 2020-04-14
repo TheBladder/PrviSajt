@@ -14,7 +14,7 @@
                 display: inline-block;
                 width: 30%;
                 vertical-align: top;
-                
+                position:fixed;
             }
             .nav-link{
                 display: block;
@@ -23,22 +23,28 @@
             #main-doc{
                 display: inline-block;
                 width: 65%;
-                
+                position: absolute;
+                margin-left: 20%;
                 
             }
             @media screen and (max-width: 768px){
                 body{
                     font-size: 0.6em;
                 }
+                #main-dock{
+                    
+                }
                 #navbar,#main-doc{
                     display: block;
                     width: 100%;
+                    position: static;
+                    margin: auto;
                 }
                 .nav-link{
                     display: inline-block;
                 
                 }
-                
+              
             }
         
         
@@ -56,6 +62,8 @@
         <a href="#odeljak_3" class="nav-link">Odeljak 3</a>
         <a href="#odeljak_4" class="nav-link">Odeljak 4</a>
         <a href="#odeljak_5" class="nav-link">Odeljak 5</a>
+            <a href="https://codepen.io/freeCodeCamp/full/NdrKKL" class="nav-link">Ovako treba da izgleda sajt</a>
+            <a href="zadaci.html" class="nav-link">Povratak</a>
         </nav> <main id="main-doc">
         
         <section class="main-section" id="odeljak_1">
@@ -102,8 +110,7 @@
         
         
         </main>
-        <a href="https://codepen.io/freeCodeCamp/full/NdrKKL"> Ovako treba da izgleda sajt</a>
-        <a href="zadaci.html"> Povratak </a>
+    
     
     
     
