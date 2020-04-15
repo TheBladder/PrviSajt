@@ -1,15 +1,101 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Drugi Zadatak</title>
+        <title>Vezbanje</title>
          <meta charset="UTF-8">
     <meta name = "description" content="blabla">
     <meta name="keywords" content="blabla">
     <meta name="author" content="Pedja i Joca">
+    <meta name="viewport" content="width=device-width" initial-scale="1">    
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+        <style type="text/css">
+        
+            #navbar{
+                display: flex;
+                position: fixed;
+                vertical-align: top;
+                width: 100%;
+                background-color: rgba(217, 215, 215, 0.5);
+                
+                
+            }
+            #povratak{
+                width: 20%;
+                border: solid;
+                border-color: black;
+                padding: 10px;
+            }
+            #navigacija{
+                border:solid;
+                width: 80%;
+                padding: 10px;
+                    
+            }
+            #main{
+                padding-top: 50px;
+            }
+            .elementi{
+                display: inline-block;
+                width: 100%;
+            }
+            .paragrafi{
+                display: inline-block;
+                margin-left: 15px;
+            }
+            .prvired{
+                text-decoration: underline;
+            }
+            #el1a{
+                font-family: Helvetica;
+            }
+            #el2a{
+                font-family: Pacifico;
+            }
+            #bold{ display: inline;  font-weight: bold;}#bolder{display: inline; font-weight: bolder;}#lighter{display: inline; font-weight: lighter;}
+            #el4a{font-style: italic;}
+            #el5a{font-size: 20px;}
+        
+        
+        
+        
+        </style>
+        
     </head>
     <body>
+        <nav id="navbar">
+            <a href="thebladder.github.io" id="povratak">Povratak</a>
+            <section id="navigacija">
+            <label for="navid">Odabir elementa</label>
+            <select name="navigacija" id="navid">
+                <option value="#el1" href="#el1"><a href="#elp">1. Font Family</a></option>
+                <option value="#el2"><a href="#el2">2. Font Family Google</a></option>
+                <option value="#el3"><a href="#el3">3. Font Weight</a></option>
+                <option value="#el4"><a href="#el3">4. Font Style</a></option>
+                <option value="#el5"><a href="#el5">5. Font Size</a></option>
+            
+            </select></section>
+        </nav>
+        <main id="main">
+            <div id="el1" class="elementi">
+            <p class="paragrafi prvired" id="elp">1.Font Family</p><p id="el1a" class="paragrafi drugired"> Helvetica Helvetica Helveticav Helvetica</p>
+            </div>
+            <div id="el2" class="elementi">
+            <p class="paragrafi prvired" id="elp">2.Font Family Google</p><p id="el2a" class="paragrafi drugired"> Pacifico Pacifico Pacifico Pacifico</p>
+            </div>
+            <div id="el3" class="elementi">
+            <p class="paragrafi prvired" >3.Font Weight</p><p id="el3a" class="paragrafi drugired">Normal <p id="bold"> Bold</p> <p id="bolder"> Bolder</p> <p id="lighter"> Lighter</p>
+            </div>
+            <div id="el4" class="elementi">
+            <p class="paragrafi prvired" >4.Font Style</p><p id="el4a" class="paragrafi drugired">Italic </p>
+            </div>
+            <div id="el5" class="elementi">
+            <p class="paragrafi prvired" >5.Font Size</p><p id="el5a" class="paragrafi drugired">20px</p>
+            </div>
         
-        <a href="https://thebladder.github.io/">Glavna strana</a>
+     
+    
+        
+        </main>
     
     
     
