@@ -73,8 +73,10 @@
     <h1>PEĐA I JOCA</h1>
     <div id="jocko"><marquee>JOCA CAR</marquee></div>
 <div id="navi"><ul>
-     <li><a href="zadaci.html">ZADACI</a></li>
-    <li><a href="vezbanje.html">VEŽBANJE</a></li>
+     <li><a href="zadaci.html">Zadaci</a></li>
+    <li><a href="vezbanje.html">Vezbanje</a></li>
+    <li><a href="https://www.youtube.com/">Youtube</a></li>
+    <li><a href="https://www.yahoo.com/">Yahoo</a></li>
     </ul></div>
 </body>
 </html>
