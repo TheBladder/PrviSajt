@@ -27,7 +27,7 @@
             }
             #navigacija{
                 border:solid;
-                width: 80%;
+                width: 100%;
                 padding: 10px;
                     
             }
@@ -54,14 +54,20 @@
             #bold{ display: inline;  font-weight: bold;}#bolder{display: inline; font-weight: bolder;}#lighter{display: inline; font-weight: lighter;}
             #el4a{font-style: italic;}
             #el5a{font-size: 20px;}
-        @media screen and (max-width:768px){
+            #el6a{color: blue;}
+        
+            @media screen and (max-width:768px){
             body{
               font-size: 0.9em;  
             }
+                java{
+                    font-size: 0.5em;
+                }
             }
-        
-        
-        
+            #java{
+                width 10%;
+                border: solid;
+            }
         </style>
         
     </head>
@@ -76,8 +82,13 @@
                 <option value="#el3"><a href="#el3">3. Font Weight</a></option>
                 <option value="#el4"><a href="#el3">4. Font Style</a></option>
                 <option value="#el5"><a href="#el5">5. Font Size</a></option>
+                <option value="#el5"><a href="#el6">6. Color</a></option>
+                
             
-            </select></section>
+            </select>
+                <a id="java" href="java_script.html">Java Script Vežbanje</a>
+            
+            </section>
         </nav>
         <main id="main">
             <div id="el1" class="elementi">
@@ -95,8 +106,11 @@
             <div id="el5" class="elementi">
             <p class="paragrafi prvired" >5.Font Size</p><p id="el5a" class="paragrafi drugired">20px</p>
             </div>
+            <div id="el6" class="elementi">
+            <p class="paragrafi prvired" >6.Color</p><p id="el6a" class="paragrafi drugired">Plava boja teksta</p>
+            </div>
         
-     
+    
     
         
         </main>
